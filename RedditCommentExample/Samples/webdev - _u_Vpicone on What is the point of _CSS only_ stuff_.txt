@@ -1,0 +1,2 @@
+/u/Vpicone on What is the point of "CSS only" stuff?
+When the logic is built into the browser (i.e animations, filtering etc.) then that’s less source code your client has to download.   

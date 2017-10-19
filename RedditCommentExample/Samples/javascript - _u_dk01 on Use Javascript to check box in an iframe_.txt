@@ -1,0 +1,2 @@
+/u/dk01 on Use Javascript to check box in an iframe?
+You have 3 options: You control the source code both the interior and exterior of the iframe and communicate with postmessage with a csp set.  Chrome extension.  Automate the interaction with a headless browser like Testcafe which has the ability to orchestrate iframe context switching.     

@@ -1,0 +1,2 @@
+/u/irvcz on How do I focus on a subregion within images for classification in deep learning?
+The type of approach depends on the type of data and what do you already know about it. The type of noise, shape and location of your area, the level of noise inside the area make all the difference. One naive way is calculating the standard deviation or the sum of absolutes of first derivative and see if your patch is different   

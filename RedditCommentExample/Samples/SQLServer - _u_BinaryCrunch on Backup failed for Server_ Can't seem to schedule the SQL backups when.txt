@@ -1,0 +1,2 @@
+/u/BinaryCrunch on Backup failed for Server? Can't seem to schedule the SQL backups when permissions are correct.
+More than not its on the machine not the domain. If I recall you can look in the configuration manager to see whats account the service is running under   

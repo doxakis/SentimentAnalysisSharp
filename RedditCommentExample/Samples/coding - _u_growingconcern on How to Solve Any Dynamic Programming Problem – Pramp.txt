@@ -1,0 +1,2 @@
+/u/growingconcern on How to Solve Any Dynamic Programming Problem – Pramp
+Pretty weird that an article about dynamic programming doesn't talk about dynamic programming.   

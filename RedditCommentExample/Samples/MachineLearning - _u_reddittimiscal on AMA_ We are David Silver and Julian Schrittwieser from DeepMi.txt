@@ -1,0 +1,2 @@
+/u/reddittimiscal on AMA: We are David Silver and Julian Schrittwieser from DeepMind’s AlphaGo team. Ask us anything.
+Why stop the training at 40 days? It's still climbing the performance ladder, no? What happened if you let it run for, say, 3 months?   

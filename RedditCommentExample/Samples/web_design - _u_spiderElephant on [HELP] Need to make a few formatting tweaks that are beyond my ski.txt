@@ -1,0 +1,2 @@
+/u/spiderElephant on [HELP] Need to make a few formatting tweaks that are beyond my skillset
+You have a media query overriding the css that controls your menu. Use inspect element and you'll see you have display:block important on your nav ul. Uncheck that and the problem goes away. Sort that out for no.3   

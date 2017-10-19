@@ -1,0 +1,2 @@
+/u/Kon-El252 on Has any AI taken an IQ test and what score did they get?
+I'm a clinical psychology PhD student and I am specializing in psychological assessment. I'm guessing the reason why these scores are so low is because there are domains of intelligence tests which require visual recognition and replication via physical manipulation, the ability to repeat and reorder digit strings, and other tasks which require handwriting. I'm sure if we programmed an AI with the proper tools to complete these tasks they would score much higher.   

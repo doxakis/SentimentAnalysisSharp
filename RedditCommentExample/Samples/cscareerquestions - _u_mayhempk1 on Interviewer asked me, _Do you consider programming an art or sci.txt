@@ -1,0 +1,2 @@
+/u/mayhempk1 on Interviewer asked me, "Do you consider programming an art or science". I answered craft. What is this question supposed to demonstrate?
+I would say it's both. It depends on the code you write.   

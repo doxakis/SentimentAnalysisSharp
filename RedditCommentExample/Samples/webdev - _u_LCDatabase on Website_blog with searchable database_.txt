@@ -1,0 +1,2 @@
+/u/LCDatabase on Website/blog with searchable database?
+I guess I could use that for now, but it sounds like I'll need some custom work done eventually. Do you have an idea of how much that would cost? I'd really just need to code for the functionality and basic UI.   

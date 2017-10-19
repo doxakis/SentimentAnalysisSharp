@@ -1,0 +1,2 @@
+/u/oosthuizenb on Advice on approaching hybrid apps
+Yes, I've used it. It has some nice features like hot loading while your mobile device is connected, then it automatically transfers the app to the phone and opens it while coding. Pretty handy but I'm assuming the other frameworks will probably work the same. I also struggled a bit when setting up the first time. It was quite a while back but maybe I can still help you if the error persists. Just let me know.   

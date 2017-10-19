@@ -1,0 +1,2 @@
+/u/digitald17 on I am working on an ASP MVC intranet app for my office. Any suggestions to improve development speed, especially for reports?
+Why do you need to rewrite them as stored procedures? Why is EF/LINQ-to-SQL not good enough?   

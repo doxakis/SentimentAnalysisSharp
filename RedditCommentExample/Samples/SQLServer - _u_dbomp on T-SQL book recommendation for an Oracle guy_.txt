@@ -1,0 +1,2 @@
+/u/dbomp on T-SQL book recommendation for an Oracle guy?
+The sample chapter on TOP/FETCH for "T-SQL Querying" is what sold me.   

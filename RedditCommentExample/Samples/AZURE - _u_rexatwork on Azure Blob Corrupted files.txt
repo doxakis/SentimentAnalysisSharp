@@ -1,0 +1,2 @@
+/u/rexatwork on Azure Blob Corrupted files
+Thanks for the replies, EDIT: I spoke to Cloudberry and it was to do with the option for File Caching, with that turned off there were no more issues with files being corrupted.   

@@ -1,0 +1,2 @@
+/u/icholy on Writing flat code
+I haven't touched forEach since for-of was introduced.   

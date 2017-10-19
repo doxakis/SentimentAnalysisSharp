@@ -1,0 +1,2 @@
+/u/Tall_dark_and_lying on We are the Microsoft Excel team - Ask Us Anything!
+Helpful tip, remember the two dot rule. If you are using interop, never assign something with two or more dots in e.g. Workbook.Activesheet.Range("A1") assign each step to a variable and then release them at the end.   

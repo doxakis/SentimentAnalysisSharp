@@ -1,0 +1,2 @@
+/u/matthewblott on JWT generation does not seem to work, what am I doing wrong?
+I have a simple working example here.   

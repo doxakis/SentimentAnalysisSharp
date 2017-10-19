@@ -1,0 +1,2 @@
+/u/nicky_flello on An interesting piece of obfuscated code
+It does indeed. It calculates pi using its own area.   

@@ -1,0 +1,2 @@
+/u/SaladAndEggs on We are the Microsoft Excel team - Ask Us Anything!
+Since 2010 (IIRC) it has opened a completely new instance that can be dragged wherever you want, independent of the original window. I have not had issues moving formula or data between the different windows.   

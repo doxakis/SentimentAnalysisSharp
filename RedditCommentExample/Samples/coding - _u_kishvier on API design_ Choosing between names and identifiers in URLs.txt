@@ -1,0 +1,2 @@
+/u/kishvier on API design: Choosing between names and identifiers in URLs
+A bit of an aside: why is it not standard practice to format uuids in a radix 64 encoding? It cuts down the identifier size from 32 to 22 characters   

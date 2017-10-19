@@ -1,0 +1,2 @@
+/u/colemickens on Modern JavaScript Explained For Dinosaurs
+If this were a 40 page document about how to configure 300 lines of build scripts for a simple fucking website, it would be more accurate. I'm really over hearing JS people defend the modern JS ecosystem to me.   

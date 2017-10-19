@@ -1,0 +1,2 @@
+/u/sharky6000 on [R] AlphaGo Zero: Learning from scratch | DeepMind
+Agree not in the usual sense but I think the analogy is simpler. You can see RL as a sequence of supervised learning problems where you use a policy the generate data set, and solve a regression problem (representing expected return under the policy) and the multi label classifier (action chosen at a state) to fit a function to the data that generalizes across states. Then you plug this into a policy improver (e.g. MCTS) which generates a new dataset, and repeat.   

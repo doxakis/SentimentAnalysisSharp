@@ -1,0 +1,2 @@
+/u/AnvaMiba on [R] Generalization in Deep Learning
+On further reflection, I think you may be right: One-way functions may be hard to learn in terms of computational complexity, but not necessarily in terms of data complexity, which is what the generalization bounds care about.   

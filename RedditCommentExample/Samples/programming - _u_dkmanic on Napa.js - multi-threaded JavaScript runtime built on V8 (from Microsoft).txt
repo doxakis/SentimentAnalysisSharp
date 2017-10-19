@@ -1,0 +1,2 @@
+/u/dkmanic on Napa.js - multi-threaded JavaScript runtime built on V8 (from Microsoft)
+I've been a developer for 25+ years and used to feel like this. I found that I was bringing along some mental baggage because of my experience. That was interfering. I eventually started to take a look at JS from a clean slate point of view and I've grown to appreciate it (at least the good parts). Thinking in the functional way JS encourages has even helped me to make better use of the functional and dynamic features that were brought into C#.   

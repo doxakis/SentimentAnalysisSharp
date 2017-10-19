@@ -1,0 +1,2 @@
+/u/huydotnet on Is bit shifting in JavaScript fast?
+You're right, the benchmark is useless, it actually reduced to nothing. This is a huge mistake :( thank you so much for pointing it out.   

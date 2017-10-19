@@ -1,0 +1,2 @@
+/u/Straferino on Multiclass classification
+Firstly, thank you very much for your answer. Secondly, I do not understand how feeding the same input with a different class will teach the tree how to find the relationship.   

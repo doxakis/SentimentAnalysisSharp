@@ -1,0 +1,2 @@
+/u/moschles on Are people still working on the vanishing gradient problem? According to this wikipedia article it has been solved to some extent but not in a fundamental way
+/r/MachineLearning   

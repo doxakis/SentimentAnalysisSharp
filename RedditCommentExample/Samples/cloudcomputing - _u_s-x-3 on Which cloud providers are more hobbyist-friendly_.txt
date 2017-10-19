@@ -1,0 +1,2 @@
+/u/s-x-3 on Which cloud providers are more hobbyist-friendly?
+Also more of a hobbyist, but I was wondering; any cloud services that respect customer privacy? I have a feeling AWS will ask for unnecessary information, in addition to your firstborn child.   

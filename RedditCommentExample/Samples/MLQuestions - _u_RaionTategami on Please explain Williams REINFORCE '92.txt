@@ -1,0 +1,2 @@
+/u/RaionTategami on Please explain Williams REINFORCE '92
+Not that familiar with TD sorry. Very few deep learning models use local rules and none that I know of that are used for RL, RL is just too hard and BP just so good. The only widely used local rule learning algorithm in DL (that I can think of) would be contrastive divergence in Restricted Boltzmann Machines.   

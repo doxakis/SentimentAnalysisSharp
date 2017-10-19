@@ -1,0 +1,2 @@
+/u/parataxis_ on Representing Shapes with Signed Distance Functions
+it's cool to see that graphical models still have life in them and neural nets haven't taken over everything   

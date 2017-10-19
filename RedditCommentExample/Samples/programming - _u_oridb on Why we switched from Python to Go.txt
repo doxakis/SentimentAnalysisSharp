@@ -1,0 +1,2 @@
+/u/oridb on Why we switched from Python to Go
+But, in this example, there is a need: presumably, do_something_with_a_string would not do the right thing with an integer, and a cascade of try-catches seems even uglier to my eyes than what I wrote above. I agree, the best way to handle it is to actually know the types that you're walking over.   

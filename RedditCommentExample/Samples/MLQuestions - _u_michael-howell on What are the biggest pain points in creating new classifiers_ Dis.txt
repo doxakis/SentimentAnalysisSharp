@@ -1,0 +1,2 @@
+/u/michael-howell on What are the biggest pain points in creating new classifiers? Discussion
+Thanks for the Brilliant answer. Data 3 times? Do you think that step is a bottleneck? Where do you get your data? What type of data? We have a big problem with our image data sets too. Seems a really laborious task at the moment. Any tips? Are you also restrained by Computer power/ Training times? Thanks Mike   

@@ -1,0 +1,2 @@
+/u/MLmuchAmaze on What question would you ask to a person who applied to your company as a NLP intern.
+What is Zipf's law? What is the bag-of-words model? What to use it for? How does it work? What is the n-gram model? What to use it for? How does it work? What are Part-of-Speech Tags and how to get them? Named Entity Recognition? Semantic Analysis?    

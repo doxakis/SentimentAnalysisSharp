@@ -1,0 +1,2 @@
+/u/serentilla on Write Node.js apps in C# using Bridge.NET and Retyped
+On a similar note, did you consider going C# to Typescript? Or extracting maps from the C# that could allow the generated code to be more easily consumed by Typescript? Not a feature request really, just curious :)   

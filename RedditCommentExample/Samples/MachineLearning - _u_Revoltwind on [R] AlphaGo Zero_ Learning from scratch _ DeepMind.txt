@@ -1,0 +1,2 @@
+/u/Revoltwind on [R] AlphaGo Zero: Learning from scratch | DeepMind
+No need to go on sci-hub, they provided a direct access to their article at the end of their blogpost: Direct link to the online Nature paper It also contains supplements you can download like sgf files of the game displayed in the paper.   

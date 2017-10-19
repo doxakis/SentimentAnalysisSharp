@@ -1,0 +1,2 @@
+/u/DefNotaZombie on How best to quantify probability density change?
+I have very noisy data and wanted to see if the noise changed in any predictable ways before the trend moved up or down, or when the trend was about to reverse I'll read about kl divergence and earth movers, thank you   

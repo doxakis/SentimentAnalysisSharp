@@ -1,0 +1,2 @@
+/u/gimmeslack12 on What is the point of "CSS only" stuff?
+I love doing as much as possible in CSS as opposed to needing assets or messing around with JS when I don't need to. I do feel like I need to tip my balance back to JS animation with requestAnimationFrame.   

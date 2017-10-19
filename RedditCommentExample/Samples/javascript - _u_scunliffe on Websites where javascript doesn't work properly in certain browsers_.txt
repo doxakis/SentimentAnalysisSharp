@@ -1,0 +1,2 @@
+/u/scunliffe on Websites where javascript doesn't work properly in certain browsers?
+Find small town websites for paying bills, traffic tickets, ordering stuff etc. For anything that has a form, there’s a good chance something is broken. Open up your dev console and try interacting with every form control... most have at least a glitch or two.   

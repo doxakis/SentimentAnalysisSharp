@@ -1,0 +1,2 @@
+/u/Eirenarch on Getting involved on stack overflow
+If reputation is your goal you can build it up with good questions. Back in the day I got reputation from answers but these days questions are hard for C# because the easy ones are answered as you have figured yourself. I can still hunt for questions and refresh every minute to grind reputation but it achieves nothing. Instead when I have a question I document it on SO and share it on social media (sometimes here too). People not only answer it but upvote it too.   

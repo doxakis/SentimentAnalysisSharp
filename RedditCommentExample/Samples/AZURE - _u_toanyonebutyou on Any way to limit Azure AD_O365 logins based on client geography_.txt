@@ -1,0 +1,2 @@
+/u/toanyonebutyou on Any way to limit Azure AD/O365 logins based on client geography?
+Compliance is just one of many statements you can make with conditional access, IP based location is another. The down fall though in my opinion is there aren't any built in address blocks so you would have to know what IP address scheme each location uses or do an allow statement just for trusted IPs but that gets tricky when you get into home use and mobile users Unless you go to Azure AD P2   

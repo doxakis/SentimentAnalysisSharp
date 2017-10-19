@@ -1,0 +1,2 @@
+/u/HexorJenkins on How would I Model dust in an image or detect where there is dust in the image using openCV?
+Thank you for this insight, luckily I am using a flat surface that preforms well with transformations. Also I do not have to deal with a reflective surface or one that scatters light strangely.   

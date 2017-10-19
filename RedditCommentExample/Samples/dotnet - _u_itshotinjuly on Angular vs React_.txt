@@ -1,0 +1,2 @@
+/u/itshotinjuly on Angular vs React?
+Why would you use Aurelia over Angular?  You wouldn't if you're working on a medium to large project. The dude who created and works on Aurelia could get hit by a bus tomorrow and the whole framework would become outdated in a matter of months. Can't say that for React and Angular.   

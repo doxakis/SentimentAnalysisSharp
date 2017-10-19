@@ -1,0 +1,2 @@
+/u/NoInkling on Writing flat code
+Each of those methods (map/filter/reduce/forEach) is another iteration through the array when it could all be done in a single iteration, so there is definitely a performance downside. Whether it's practically relevant is another question. Technically, anything you can do with a chain of those methods can be done in a single reduce call, but then you've lost the readability/flexibility/single responsibility aspects again (which is kinda the whole point).   

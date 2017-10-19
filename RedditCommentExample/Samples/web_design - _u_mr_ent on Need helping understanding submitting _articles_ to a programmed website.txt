@@ -1,0 +1,2 @@
+/u/mr_ent on Need helping understanding submitting "articles" to a programmed website
+Look up some CMS platforms. You can use many different programming languages, but you do need more than HTML. If you want something super simple (PHP) try simpleCMS. Also, what you are referring to is a WYSIWYG editor.   

@@ -1,0 +1,2 @@
+/u/lepraphobia on My attempt on IGCSE (0478) Computer Science. Pass or Fail?
+Do it the long way using logic gates.   

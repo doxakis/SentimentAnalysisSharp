@@ -1,0 +1,2 @@
+/u/Amarkov on Just had a very frustrating experience at our career fair.
+It sounds like they're not looking for the kind of programmer who uses all the advanced quirks of C++. I don't think you can blame them for that! They probably have a lot of programmers who aren't C++ experts, and won't be able to understand your code if you have nonstandard functions all over or rely heavily on compiler flags.   

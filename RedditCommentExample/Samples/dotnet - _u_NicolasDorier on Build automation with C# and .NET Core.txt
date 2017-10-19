@@ -1,0 +1,2 @@
+/u/NicolasDorier on Build automation with C# and .NET Core
+I'll give it a shot for one of my libs   

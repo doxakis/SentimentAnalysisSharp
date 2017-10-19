@@ -1,0 +1,2 @@
+/u/areyouarealtotoro on Billing customers for their usage in Azure
+Your choices are: Go be a Tier 2 CSP. Billing and all that will be handled by some middle-tier. Don't do anything and they subscribe to their resources however they want and you charge for services only   

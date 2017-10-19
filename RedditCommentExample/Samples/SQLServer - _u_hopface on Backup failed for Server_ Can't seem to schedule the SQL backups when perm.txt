@@ -1,0 +1,2 @@
+/u/hopface on Backup failed for Server? Can't seem to schedule the SQL backups when permissions are correct.
+If I run into this issue I give everyone full permissions to that folder and work backwards. Then go back and tweak permissions. Also, check app/security logs to see if you can see the failure.   

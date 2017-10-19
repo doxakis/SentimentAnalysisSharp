@@ -1,0 +1,2 @@
+/u/yogthos on Whatever your background, Clojure is almost guaranteed to affect the way you think about programming.
+Thanks, and feel free to use it. :)   

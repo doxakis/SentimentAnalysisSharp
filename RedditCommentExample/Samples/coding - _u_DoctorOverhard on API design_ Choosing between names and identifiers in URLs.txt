@@ -1,0 +1,2 @@
+/u/DoctorOverhard on API design: Choosing between names and identifiers in URLs
+Maybe the named approach is just for print advertisers or something, the rest of the world shouldn't really care, just cut and paste.   

@@ -1,0 +1,2 @@
+/u/theoneandonlypatriot on How do I focus on a subregion within images for classification in deep learning?
+So what I'm looking at is MRI images of a dog's brain. The brain is relatively centered, but you can see a lot of skeletal structure surrounding it. There isn't much noise on the brain itself; the noise is just all the surrounding structure that we don't care about.   

@@ -1,0 +1,2 @@
+/u/run7b on How would I Model dust in an image or detect where there is dust in the image using openCV?
+I made a comet commuter vision particle counter to measure wood dust in the air. I posted the project in /r/ woodworking. Here is a link to the post: https://www.reddit.com/r/woodworking/comments/6qs535/webcam_air_quality_meter_code_and_description_in/   

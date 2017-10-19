@@ -1,0 +1,2 @@
+/u/stewsters on Modern JavaScript Explained For Dinosaurs
+I think the web is more centralized around html, css and Javascript than desktop apps are around C#.   

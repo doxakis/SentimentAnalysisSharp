@@ -1,0 +1,2 @@
+/u/Xiver1972 on How can I train my computer to notice when a user makes a certain expression with their face?
+If you are willing to work with C++ or Python I really like dlib. http://blog.dlib.net/ It does really well with face detection and landmarks. It has a 68 point facial landmark model and face detector that works very well right out of the box. You can train the detector and shape predictor with your own images and point information. The documentation is done in C++ code examples.   

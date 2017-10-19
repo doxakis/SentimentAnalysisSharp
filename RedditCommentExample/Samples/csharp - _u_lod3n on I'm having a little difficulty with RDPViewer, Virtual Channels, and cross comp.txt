@@ -1,0 +1,2 @@
+/u/lod3n on I'm having a little difficulty with RDPViewer, Virtual Channels, and cross compatibility between Windows 7 and 10.
+Surprisingly, yes. v8.1 Try rebooting them after applying this. If that doesn't work, I don't know what to tell you.   

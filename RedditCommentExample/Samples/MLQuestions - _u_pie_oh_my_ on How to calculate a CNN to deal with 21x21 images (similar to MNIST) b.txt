@@ -1,0 +1,2 @@
+/u/pie_oh_my_ on How to calculate a CNN to deal with 21x21 images (similar to MNIST) but with only 3 classes?
+Look at CS231N.github.io There is a section on dimensioning your layers and filters. You are probably only changing inputs and output. You have to make sure you’re changing the correct things.   

@@ -1,0 +1,2 @@
+/u/piiswrong on [D] ICLR 2018 Reproducibility Challenge
+How about we simply demand all deep learning papers must come with code that fully reproduces the experiments. Its not an unreasonable demand given the state of affairs.   

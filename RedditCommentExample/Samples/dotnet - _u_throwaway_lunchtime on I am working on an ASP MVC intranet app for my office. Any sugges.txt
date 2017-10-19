@@ -1,0 +1,2 @@
+/u/throwaway_lunchtime on I am working on an ASP MVC intranet app for my office. Any suggestions to improve development speed, especially for reports?
+Strictly a guess, but maybe there is somethign like the report datasource to which you can pass an enumerable. https://msdn.microsoft.com/en-us/library/dd461468.aspx   

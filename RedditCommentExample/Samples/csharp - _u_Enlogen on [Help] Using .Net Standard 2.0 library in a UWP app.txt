@@ -1,0 +1,2 @@
+/u/Enlogen on [Help] Using .Net Standard 2.0 library in a UWP app
+Do you have the latest version of Visual Studio 2017 (15.4)?   

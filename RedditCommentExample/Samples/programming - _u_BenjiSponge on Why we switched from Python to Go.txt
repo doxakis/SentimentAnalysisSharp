@@ -1,0 +1,2 @@
+/u/BenjiSponge on Why we switched from Python to Go
+Rust is the bomb. You won't regret it. Go is like... kinda cool, but so limited. Rust is like a fairytale land where good programmers go after they die.   

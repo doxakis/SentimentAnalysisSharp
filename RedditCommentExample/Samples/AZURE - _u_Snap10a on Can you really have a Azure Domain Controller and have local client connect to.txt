@@ -1,0 +1,2 @@
+/u/Snap10a on Can you really have a Azure Domain Controller and have local client connect to it
+There are folks here who swear by using an azure DC without an on prem DC. Microsoft’s soft rule of thumb isIf their data center is close enough, it would be worth a shot.     

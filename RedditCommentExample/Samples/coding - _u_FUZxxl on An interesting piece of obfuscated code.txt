@@ -1,0 +1,2 @@
+/u/FUZxxl on An interesting piece of obfuscated code
+Use cpp from either Schily utils or PCC, pass -t in the latter.   

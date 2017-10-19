@@ -1,0 +1,2 @@
+/u/shizzy0 on An interesting piece of obfuscated code
+I'm gonna guess it prints 3.141.   

@@ -1,0 +1,2 @@
+/u/mithridatis_ on when the batch size is equal to one, how it affects the functioning of the neural network
+It does actually, thank you so much. In my thesis I have to train a neural network so I can classify images. When I use batch size equal to 1 I get better results than any other size. That's why I asked the question, so I would be sure that's ok.   

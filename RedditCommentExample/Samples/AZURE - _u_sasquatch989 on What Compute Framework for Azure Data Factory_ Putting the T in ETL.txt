@@ -1,0 +1,2 @@
+/u/sasquatch989 on What Compute Framework for Azure Data Factory? Putting the T in ETL
+You may want to consider stream analytics: you can load your data into a temporary store and have a Stream Analytics job process the data and place it into a temporary store. Based on the nature of the data and amount to be moved, this may not be an appropriate choice, so you'll have to analyze your requirements and figure out whether this is a good option for your use case.   

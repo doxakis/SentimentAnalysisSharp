@@ -1,0 +1,2 @@
+/u/LoungeFlyZ on Which cloud providers are more hobbyist-friendly?
+Azure has a great free tier and a bunch of things free for a year that is worth checking out. https://azure.microsoft.com/en-us/free/   

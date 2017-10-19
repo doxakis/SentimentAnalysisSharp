@@ -1,0 +1,2 @@
+/u/Xirious on How to calculate a CNN to deal with 21x21 images (similar to MNIST) but with only 3 classes?
+This also helped me a ton thank you. I've got it spitting out the logits and getting around 90% accuracy. Thanks for helping me out.   

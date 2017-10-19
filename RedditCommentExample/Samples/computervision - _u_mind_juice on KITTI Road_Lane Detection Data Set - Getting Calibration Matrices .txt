@@ -1,0 +1,2 @@
+/u/mind_juice on KITTI Road/Lane Detection Data Set - Getting Calibration Matrices (Python/OpenCV or MATLAB)
+You can use the development kit to get the undistorted/BirdEyeView image using the calliberation files. e.g, python kitti-devkit/transform2BEV.py img_path path_to_Calib_files/Calib/ output_path Edit: Link to development kit - http://kitti.is.tue.mpg.de/kitti/devkit_road.zip   

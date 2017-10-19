@@ -1,0 +1,2 @@
+/u/NeilFraser on Modern JavaScript Explained For Dinosaurs
+Google only used GWT for extremely low-profile projects -- and Google Wave. Everything else is built with Closure.   

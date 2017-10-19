@@ -1,0 +1,2 @@
+/u/killit on Backup failed for Server? Can't seem to schedule the SQL backups when permissions are correct.
+I back up almost exclusively to mount points in my current role, never had to do this. One thing I do have to do though, is to put them in a sub folder in the mount point, as the root of it doesn't work. That being said, OP has said he/she put the 'everyone' permission on the folder and it worked, so it isn't a mount point issue, they just have to establish what account is being used and give that one permissions.   

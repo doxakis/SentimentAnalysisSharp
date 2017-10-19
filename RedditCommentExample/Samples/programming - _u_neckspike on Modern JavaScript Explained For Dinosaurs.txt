@@ -1,0 +1,2 @@
+/u/neckspike on Modern JavaScript Explained For Dinosaurs
+Great write-up, but I wish they had picked newer tools. We've been using Stratum + Operandi for at least 3 weeks now, can't imagine going back to Catfish now.   

@@ -1,0 +1,2 @@
+/u/dastylinrastan on Can you really have a Azure Domain Controller and have local client connect to it
+It's pretty bad right now, meant only as a mechanism for servers in Azure, plus the cost is way more than just spinning up a core DC VM or two.   

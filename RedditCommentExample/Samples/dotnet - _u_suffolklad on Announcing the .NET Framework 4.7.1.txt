@@ -1,0 +1,2 @@
+/u/suffolklad on Announcing the .NET Framework 4.7.1
+The full changelog for WPF is linked from the article.   

@@ -1,0 +1,2 @@
+/u/masterymack on How to calculate a CNN to deal with 21x21 images (similar to MNIST) but with only 3 classes?
+Just change the input size of the first node and change the stride size, it shouldn't be difficult   

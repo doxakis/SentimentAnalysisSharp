@@ -1,0 +1,2 @@
+/u/amirrorbehind on VB.net + SHA-3 512 hash
+I would Question why it's SHA3  BouncyCastle's implementations are probably the way to go. http://www.bouncycastle.org/csharp/   BouncyCastle is used in security applications globally.   

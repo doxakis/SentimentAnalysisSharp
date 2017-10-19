@@ -1,0 +1,2 @@
+/u/Belazriel on We are the Microsoft Excel team - Ask Us Anything!
+Yeah, default to text, have an option to detect or adjust. The system is ok it's just using the wrong default.   

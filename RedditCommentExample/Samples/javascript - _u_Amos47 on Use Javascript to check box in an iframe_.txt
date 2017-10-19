@@ -1,0 +1,2 @@
+/u/Amos47 on Use Javascript to check box in an iframe?
+is pre-selected. I have the same app on my store, however, it loads with that box unselected.  The way to do this is for a extension is by running your script in the context of the iframe instead of the page. You used to be able to get around some of the cors IRC by creating a script element and appending that tag to the iframe, but I don't think that's allowed anymore.   

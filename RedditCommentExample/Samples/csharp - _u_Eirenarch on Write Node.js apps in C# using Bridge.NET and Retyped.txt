@@ -1,0 +1,2 @@
+/u/Eirenarch on Write Node.js apps in C# using Bridge.NET and Retyped
+In my experience JS libraries are of lower quality. I'd take the .NET ones whenever possible. I'd rather invest in porting that super important JS library the project cannot work without to .NET than run C# on top of Node.js. That being said the reverse proposition of Bridge.NET is great. I hope writing C# on the front end becomes mainstream.   

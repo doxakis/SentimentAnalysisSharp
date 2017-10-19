@@ -1,0 +1,2 @@
+/u/primenova1 on Best python wrapper for Stanford's CoreNLP?
+I found pycorenlp to be useful. https://github.com/smilli/py-corenlp   

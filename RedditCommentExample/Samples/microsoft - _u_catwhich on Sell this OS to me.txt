@@ -1,0 +1,2 @@
+/u/catwhich on Sell this OS to me
+Now for some somewhat settling news: Iron Group CTO Alex Hudson says an attacker needs to be on the same Wi-Fi network as you in order to carry out any nefarious plans with KRACK. “You’re not suddenly vulnerable to everyone on the internet,” he says.  I'm on Mint and it was patched yesterday. Not sure what you are using that it takes so long.   

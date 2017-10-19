@@ -1,0 +1,2 @@
+/u/activatedgeek on Looking for interesting projects with Github data.
+A git commit prehook which reports the quality of the commit message and details and prevents commits if quality score below a threshold.   

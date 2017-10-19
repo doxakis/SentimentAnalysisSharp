@@ -1,0 +1,2 @@
+/u/tholumar on Good hook for people who want to make a cloud from scratch?
+Can you be more specific? What do you mean by make a cloud with your raspi?   

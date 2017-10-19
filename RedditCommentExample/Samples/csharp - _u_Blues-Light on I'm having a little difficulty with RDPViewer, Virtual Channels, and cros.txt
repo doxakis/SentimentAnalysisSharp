@@ -1,0 +1,2 @@
+/u/Blues-Light on I'm having a little difficulty with RDPViewer, Virtual Channels, and cross compatibility between Windows 7 and 10.
+I tried it out, got the prerequisite as well, when I ran them they all said my computer already had that update. Restarted anyway just cause, then I tried it again, no dice. Thanks for trying though, I had hope lol   

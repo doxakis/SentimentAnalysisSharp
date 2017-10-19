@@ -1,0 +1,2 @@
+/u/recourse7 on Which cloud providers are more hobbyist-friendly?
+I don't really follow what you are wanting. Low cost? Get a digital ocean droplet. Lots of addons? AWS. What is it you want to do? You get a virtual server to do whatever you want with from any of the cloud providers.   

@@ -1,0 +1,2 @@
+/u/theeigthsamurai on Opensource Contribution to NLP for Triplet Relation generation using Syntaxnet
+Do you have benchmarks against things like Ollie or Stanford's OpenIE? Also, unrelated, but why no prepositions on your relations? Without them, two sentences like "Bill studies Ted" and "Bill studies with Ted" look identical to the system.   

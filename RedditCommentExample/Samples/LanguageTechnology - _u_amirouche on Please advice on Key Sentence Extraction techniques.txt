@@ -1,0 +1,2 @@
+/u/amirouche on Please advice on Key Sentence Extraction techniques
+Everything seems custom in language technology outside POS tagging. Even NER is custom somewhat.   

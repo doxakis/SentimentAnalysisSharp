@@ -1,0 +1,2 @@
+/u/The_Dingman on ULXD Battery Settings
+Lithium batteries have a lot different discharge curve than alkalines. More than likely they weren't actually that low. The best example is looking at NiMH AA's, which at a full charge are about 1.2 volts. A new alkaline is about 1.5-1.7. As they discharge, the voltage drops, so an alkaline at 1.2 is nearly dead, while a NiMH is full. Lithium Ion batteries hold their voltage pretty consistently until they just die, so lower voltage on those will report as nearly dead.   

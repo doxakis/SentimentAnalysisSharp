@@ -1,0 +1,2 @@
+/u/Lord_Blackthorn on We are the Microsoft Excel team - Ask Us Anything!
+Why can't I type a formula directly into a chart axis label or chart title yet?   

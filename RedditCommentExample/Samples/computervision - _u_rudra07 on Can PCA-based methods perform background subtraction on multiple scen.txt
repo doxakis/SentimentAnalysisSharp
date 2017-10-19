@@ -1,0 +1,2 @@
+/u/rudra07 on Can PCA-based methods perform background subtraction on multiple scenes without re-training?
+Robust PCA is a variant that could be used to decompose a matrix in to low rank ( could be modeled to represent background) and sparse(could be modeled to represent foreground) components.. This would be an offline method of segmentation as it needs the entire video (including future frames) to process (as opposed to online methods that are based on MoG based BG modelling). Here is a paper that discusses this approach in more detail: https://arxiv.org/abs/1603.05875   

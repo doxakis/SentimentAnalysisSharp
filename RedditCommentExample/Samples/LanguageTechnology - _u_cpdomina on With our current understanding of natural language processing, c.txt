@@ -1,0 +1,2 @@
+/u/cpdomina on With our current understanding of natural language processing, could we theoretically create a program that can read a wikipedia page and create a knowledge graph out of it (similar to wikidata)?
+Open Information Extraction is one of the research areas exploring this kind of techniques. There's a few available systems, such as OpenIE, CoreNLP and ClausIE. AlchemyLanguage also extracts specific typed relations from text.   

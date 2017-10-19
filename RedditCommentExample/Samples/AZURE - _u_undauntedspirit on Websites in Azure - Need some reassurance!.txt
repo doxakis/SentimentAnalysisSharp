@@ -1,0 +1,2 @@
+/u/undauntedspirit on Websites in Azure - Need some reassurance!
+All prices in Azure are crazy. I do mirror some of the comments already made in that you should really check out app services, and sql as a service rather than having to monitor VM's, paying for SQL licenses, etc. You will be charging them much much more per month just for the SQL license, you haven't even scratched the service of total $$.   

@@ -1,0 +1,2 @@
+/u/adlx on Looking for a managed backup solution of Storage Account Blobs containers
+It seems that we'll go for that after all. I hate having to deploy a VM, as I was planning to go 100% serverless Paas, but I have to protect my files.   

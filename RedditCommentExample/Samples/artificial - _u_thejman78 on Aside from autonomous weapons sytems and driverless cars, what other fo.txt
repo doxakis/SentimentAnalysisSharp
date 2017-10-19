@@ -1,0 +1,2 @@
+/u/thejman78 on Aside from autonomous weapons sytems and driverless cars, what other form of aritficial intelligence raises issues?
+Supply chain implementations where AI is used to identify/track goods from the point of origin, and/or attempt to identify an item's point of origin via analysis. At some point, I suspect many industries will come to rely on AI to prove that their goods are "conflict free" (or whatever), but what if it's off? Could be a class action, right?   

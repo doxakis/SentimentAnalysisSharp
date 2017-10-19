@@ -1,0 +1,2 @@
+/u/unexpected_potato on Backup failed for Server? Can't seem to schedule the SQL backups when permissions are correct.
+Query sys.dm_server_services   

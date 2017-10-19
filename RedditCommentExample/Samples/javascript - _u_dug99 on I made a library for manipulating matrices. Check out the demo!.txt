@@ -1,0 +1,2 @@
+/u/dug99 on I made a library for manipulating matrices. Check out the demo!
+What! No determinant? /jks Looks good though. :)   

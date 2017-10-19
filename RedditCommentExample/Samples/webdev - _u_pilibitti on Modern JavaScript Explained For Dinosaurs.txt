@@ -1,0 +1,2 @@
+/u/pilibitti on Modern JavaScript Explained For Dinosaurs
+You're right. The title should be something like "why setting up a development environment for a modern javascript project is as complicated as it is"   

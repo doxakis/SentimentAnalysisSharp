@@ -1,0 +1,2 @@
+/u/thelordpsy on Ideas on how to fix Scatter Arrow to be skill based instead of a cheap shot.
+The ability is intended to be a cheap shot, so this is working as intended.   

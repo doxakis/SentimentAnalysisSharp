@@ -1,0 +1,2 @@
+/u/geocar on An interesting piece of obfuscated code
+Actually it doesn't, at least, not any more. You need a preprocessor that does string glueing instead of tokenisation to make this work as intended. Such preprocessors were uncommon in 1988 and basically extinct today. To see the problem, note that on "modern" systems -_ produces:  - -F  instead of the intended:  --F  This is easy to see with gcc -E and the fix is easy as well:  #define _ F-->00||-F-OO--;  Not quite as pretty, but the future rarely is.   

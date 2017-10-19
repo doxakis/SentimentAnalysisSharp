@@ -1,0 +1,2 @@
+/u/FuryQuaker on Severe flaw in WPA2 protocol leaves Wi-Fi traffic open to eavesdropping
+Well that's not good!   

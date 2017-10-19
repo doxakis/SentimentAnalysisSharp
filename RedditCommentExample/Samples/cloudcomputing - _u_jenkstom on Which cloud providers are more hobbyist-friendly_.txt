@@ -1,0 +1,2 @@
+/u/jenkstom on Which cloud providers are more hobbyist-friendly?
+Digital Ocean, Linode and other unmanaged are aimed at developers and hobbyists. But I think you and I may have different definitions of hobbyist. To me that means doing the sysadmin work yourself.   

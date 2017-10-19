@@ -1,0 +1,2 @@
+/u/manys on Modern JavaScript Explained For Dinosaurs
+Absolutely use the right tool for the job, but to be fair this article is essentially a glue-guide more than "modern javascript explained."   

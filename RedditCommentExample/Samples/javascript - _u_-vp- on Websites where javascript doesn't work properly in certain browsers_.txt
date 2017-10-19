@@ -1,0 +1,2 @@
+/u/-vp- on Websites where javascript doesn't work properly in certain browsers?
+Is this ES6 or ES5? If ES5, go http://kangax.github.io/compat-table/es6/ and check the obsolete browsers and look at things like .bind(). If ES6, even some modern browsers will be lacking, which you'll be able to see here on the list right away.   

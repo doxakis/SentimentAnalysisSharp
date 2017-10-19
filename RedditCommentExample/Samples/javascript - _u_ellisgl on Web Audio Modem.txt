@@ -1,0 +1,2 @@
+/u/ellisgl on Web Audio Modem
+Correct, but the encoding schemes used by those could help increase bit rate.   

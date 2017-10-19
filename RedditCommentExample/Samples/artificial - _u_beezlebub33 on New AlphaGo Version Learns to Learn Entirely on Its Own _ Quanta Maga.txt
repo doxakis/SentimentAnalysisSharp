@@ -1,0 +1,2 @@
+/u/beezlebub33 on New AlphaGo Version Learns to Learn Entirely on Its Own | Quanta Magazine
+That's pretty amazing. You should be able to apply a lot of this reasoning to other games / situations. Here is a link to the DeepMind site about it: https://deepmind.com/blog/alphago-zero-learning-scratch/ They have a link to the paper (unformatted) at: https://deepmind.com/documents/119/agz_unformatted_nature.pdf   

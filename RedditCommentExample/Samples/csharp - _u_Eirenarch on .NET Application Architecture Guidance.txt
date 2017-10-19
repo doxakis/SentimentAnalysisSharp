@@ -1,0 +1,2 @@
+/u/Eirenarch on .NET Application Architecture Guidance
+I am pretty sure they added a way to call the UWP APIs from Win32 apps   

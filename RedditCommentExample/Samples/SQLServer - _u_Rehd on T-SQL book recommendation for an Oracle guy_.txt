@@ -1,0 +1,2 @@
+/u/Rehd on T-SQL book recommendation for an Oracle guy?
+All his books are just like that. Packed with a ton of information, best practices, clear and concise, and lots of examples / practice problems. For intermediate and up skill set individuals looking to learn, I always recommend his stuff.   

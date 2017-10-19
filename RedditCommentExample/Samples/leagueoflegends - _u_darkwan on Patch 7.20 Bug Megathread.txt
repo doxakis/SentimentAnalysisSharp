@@ -1,0 +1,2 @@
+/u/darkwan on Patch 7.20 Bug Megathread
+Seriously the most irritating bug I've seen in awhile. It's bugs like this that convince me there isn't a streinous testing cycle for patches. It's reproducible 100% of the time   

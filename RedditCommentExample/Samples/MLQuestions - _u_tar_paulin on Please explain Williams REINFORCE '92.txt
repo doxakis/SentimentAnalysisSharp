@@ -1,0 +1,2 @@
+/u/tar_paulin on Please explain Williams REINFORCE '92
+Thanks, that is very helpful. -From the python example it looks like the all the network states for the episode are being stored, until the reward. In this respect is the memory footprint relatively large, compared to Temporal Difference methods ? -The example appears to use Back Propagation for credit assigment. Do Policy Gradient methods also provide a local learning rule, that might be suitable for a deep model ?   

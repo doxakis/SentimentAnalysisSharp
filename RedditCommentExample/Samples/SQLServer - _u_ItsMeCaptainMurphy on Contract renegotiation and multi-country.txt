@@ -1,0 +1,2 @@
+/u/ItsMeCaptainMurphy on Contract renegotiation and multi-country
+Also if you get an answer that sounds fishy from Microsoft - reach out to someone else. I've had multiple contract reps that had no idea what they were talking about (for instance, one claimed TFS was no longer going to be an on-site product and I had to move to the hosted version).   

@@ -1,0 +1,2 @@
+/u/knnplease on [P] Want to understand t-SNE better? Here's a step-by-step guide to the math, with numpy implementation.
+what does t-SNE help show?   

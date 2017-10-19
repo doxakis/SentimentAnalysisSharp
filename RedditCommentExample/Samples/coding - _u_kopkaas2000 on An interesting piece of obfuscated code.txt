@@ -1,0 +1,2 @@
+/u/kopkaas2000 on An interesting piece of obfuscated code
+Ah I was wondering why my gcc didn't like it. Thanks for figuring it out!   

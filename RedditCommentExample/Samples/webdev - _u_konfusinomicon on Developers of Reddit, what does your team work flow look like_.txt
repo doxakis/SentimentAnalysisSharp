@@ -1,0 +1,2 @@
+/u/konfusinomicon on Developers of Reddit, what does your team work flow look like?
+The team definitely needs to move on from ftp. It will dramatically increase your efficiency. If docker seems to complicated, check out vagrant. It's a little easier to set up in my opinion   

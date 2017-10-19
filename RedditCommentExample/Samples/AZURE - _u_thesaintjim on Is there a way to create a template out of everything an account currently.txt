@@ -1,0 +1,2 @@
+/u/thesaintjim on Is there a way to create a template out of everything an account currently has setup in Azure’s portal? (Note: it is just a website shell environment)
+Not everything is exported out of the portal this way, FYI. Plus, the naming format is horrible   

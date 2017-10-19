@@ -1,0 +1,2 @@
+/u/Gbps on Write Node.js apps in C# using Bridge.NET and Retyped
+We just wrote a Node.js + Electron app that works on Mac, Linux, and Windows. All in C# using the tools and language that our development team knows well.  This cannot be a good idea at all except for the novelty. You're taking an enormous hit to your performance and project maintainability just to take part in the desktop Javascript fad. We have two great projects, Mono and .NET Core, for creating cross-platform apps.   

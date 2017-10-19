@@ -1,0 +1,2 @@
+/u/HeinrichTheWolf_17 on Mastering the game of Go without human knowledge | Nature
+Original Deepmind article can be found here: https://deepmind.com/blog/alphago-zero-learning-scratch/   

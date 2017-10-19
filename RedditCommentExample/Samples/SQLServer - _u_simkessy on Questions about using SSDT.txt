@@ -1,0 +1,2 @@
+/u/simkessy on Questions about using SSDT
+So are you always dropping your tables on post deploy to prevent duplication of seed data?   

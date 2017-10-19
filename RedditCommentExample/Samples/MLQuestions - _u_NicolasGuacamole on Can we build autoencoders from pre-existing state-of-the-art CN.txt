@@ -1,0 +1,2 @@
+/u/NicolasGuacamole on Can we build autoencoders from pre-existing state-of-the-art CNN's?
+Yes you can do it. Yes skip connections are ok.   

@@ -1,0 +1,2 @@
+/u/naradrinis on [Help] Using .Net Standard 2.0 library in a UWP app
+Yes, I also target Fall Creators Update. I found a solution though... kind of. When I tried with a background application the problem above occurred. When I tried with a simple blank uwp app, it works; no errors. In the end I was right that .net standard solves these problems, although I did not investigate why the background app did not work. It's an older template I got installed externally, could be a reason.   

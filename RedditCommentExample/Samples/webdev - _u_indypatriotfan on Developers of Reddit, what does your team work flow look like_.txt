@@ -1,0 +1,2 @@
+/u/indypatriotfan on Developers of Reddit, what does your team work flow look like?
+Everyone has Vagrant on their machines and we just checkout projects to our project directory from Git, fire up vagrant, and there it is. There is also a central mysql database that all the environments use   

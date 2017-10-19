@@ -1,0 +1,2 @@
+/u/6nf on TSQL to identify all records below FID02
+Couple of seconds is pretty shit, you must be missing indexes. If not, the number of levels must be pretty deep. If you're doing this query a lot you may want to look at alternative solutions.   

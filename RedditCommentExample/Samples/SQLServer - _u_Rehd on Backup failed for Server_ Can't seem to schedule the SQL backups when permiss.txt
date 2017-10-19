@@ -1,0 +1,2 @@
+/u/Rehd on Backup failed for Server? Can't seem to schedule the SQL backups when permissions are correct.
+You can work around with the 'everyone' group to TEST that its definitely a permissions thing  Possibly an issue in a high security environment, but that's still solid troubleshooting advice.   

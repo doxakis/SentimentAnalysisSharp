@@ -1,0 +1,2 @@
+/u/cooljoe311 on Modern JavaScript Explained For Dinosaurs
+You pretty much hit the nail on the head here. GWT is impossible to maintain on a sufficiently complex application and the performance is similarly terrible compared to most any other framework. It was a nice attempt by Google, but it's pretty clear as to why it didn't take off.   

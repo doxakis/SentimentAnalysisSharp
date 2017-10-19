@@ -1,0 +1,2 @@
+/u/nme_ on Can you really have a Azure Domain Controller and have local client connect to it
+There isn’t a “PDC” anymore. You need to configure sites and services with the correct subnets and it will work just fine. No different than having a remote office building with a DC in it, that remote building is now just azure.   

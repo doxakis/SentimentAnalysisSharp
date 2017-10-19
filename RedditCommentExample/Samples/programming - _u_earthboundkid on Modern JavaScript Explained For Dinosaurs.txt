@@ -1,0 +1,2 @@
+/u/earthboundkid on Modern JavaScript Explained For Dinosaurs
+Apples and oranges. If you want to make a C# app you are going to use Microsoft’s IDE (or be a Mono weirdo). Ditto Swift and Xcode. But there are a million ways to do web work from PHP to COBOL on Cogs.   

@@ -1,0 +1,2 @@
+/u/AngularBeginner on Build automation with C# and .NET Core
+And dotnet build is just using MSBuild under the hood, which is fairly powerful and extensible. It's just a pain in the ass to learn.   

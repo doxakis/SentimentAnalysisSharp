@@ -1,0 +1,2 @@
+/u/coffeecoffeecoffeee on [D] What ML dataset(s) do you wish existed?
+Text of real news sites and fake news articles. At one point I decided I was going to try to generate this myself, but the HTML was so bad for the fake sites there's no way I would have been able to automate it.   

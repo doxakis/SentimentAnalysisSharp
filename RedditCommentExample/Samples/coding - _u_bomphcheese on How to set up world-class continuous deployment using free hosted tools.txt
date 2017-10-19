@@ -1,0 +1,2 @@
+/u/bomphcheese on How to set up world-class continuous deployment using free hosted tools
+GitLab FTW. The entire pipeline is integrated into their service.   

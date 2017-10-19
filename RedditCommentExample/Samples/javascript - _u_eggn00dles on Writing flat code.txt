@@ -1,0 +1,2 @@
+/u/eggn00dles on Writing flat code
+the most vanilla implementation is always fastest. i always laugh when people tell me to use forEach instead of for. when i remind them forEach uses for under the hood they just walk away.   

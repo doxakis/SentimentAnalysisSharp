@@ -1,0 +1,2 @@
+/u/MrNaturalOrganic on How do I focus on a subregion within images for classification in deep learning?
+Is the data you want in a known range? .e.g. >1See this example: https://stackoverflow.com/questions/13066249/filtering-lines-in-a-numpy-array-according-to-values-in-a-range Did you try using an image filter?     

@@ -1,0 +1,2 @@
+/u/Dispersia on Write Node.js apps in C# using Bridge.NET and Retyped
+But then why not just use typescript? Then javascript and c# developers can both work in a language they're familiar with with everything you just stated. And what backend library is there for JS that there isn't for C#?   

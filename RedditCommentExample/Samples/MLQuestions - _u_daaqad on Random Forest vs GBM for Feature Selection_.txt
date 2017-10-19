@@ -1,0 +1,2 @@
+/u/daaqad on Random Forest vs GBM for Feature Selection?
+I generally use GBM as an alternative to a DL-based approach, specially if the DL hyperparameters tuning is difficult to nail.   

@@ -1,0 +1,2 @@
+/u/BULK_INSERT_INTO on T-SQL book recommendation for an Oracle guy?
+SET based processing vs Iterative Thinking in sets   

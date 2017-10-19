@@ -1,0 +1,2 @@
+/u/notathr0waway1 on Which cloud providers are more hobbyist-friendly?
+I think you have to go with AWS for the documentation and the ecosystem.   

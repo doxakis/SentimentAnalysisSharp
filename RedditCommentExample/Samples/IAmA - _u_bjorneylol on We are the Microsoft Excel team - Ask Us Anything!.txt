@@ -1,0 +1,2 @@
+/u/bjorneylol on We are the Microsoft Excel team - Ask Us Anything!
+What if you are doing a vlookup and a column contains 10.0, 10, and "10" - it should pair the strings, floats and integers up, not just match the first thing it sees   

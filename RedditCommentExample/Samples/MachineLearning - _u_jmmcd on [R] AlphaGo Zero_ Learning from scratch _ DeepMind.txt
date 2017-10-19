@@ -1,0 +1,2 @@
+/u/jmmcd on [R] AlphaGo Zero: Learning from scratch | DeepMind
+The self-play would just be called coevolution in the field of EC, where it's well-known. I was surprised that term isn't mentioned in the post or the paper. But since AlphaGo Zero is trained by gradient descent, it's definitely not a GA.   

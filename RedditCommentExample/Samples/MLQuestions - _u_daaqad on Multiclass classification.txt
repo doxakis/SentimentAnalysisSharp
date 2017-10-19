@@ -1,0 +1,2 @@
+/u/daaqad on Multiclass classification
+Have you tried Support Vector classification ? Quick remark on your Deep learning attempt: Generally you train a NN with data, not with already processed features.   

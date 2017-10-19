@@ -1,0 +1,2 @@
+/u/elder_george on Napa.js - multi-threaded JavaScript runtime built on V8 (from Microsoft)
+They maintain a fork using Chakra. Not a bad thing, will help to ensure Chakra still runs on *NIXes. Might help with benchmarking too.   

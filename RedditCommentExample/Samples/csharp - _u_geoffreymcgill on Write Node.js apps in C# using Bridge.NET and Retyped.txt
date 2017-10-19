@@ -1,0 +1,2 @@
+/u/geoffreymcgill on Write Node.js apps in C# using Bridge.NET and Retyped
+It probably depends on what you're building, but we haven't seen any performance issues. Performance has been excellent. Major league apps such as Visual Studio Code, Slack, and GitHub Desktop are all built on Electron. Certainly nowhere near fad territory. An amazing new world of opportunities is opening up to .NET developers.   

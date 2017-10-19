@@ -1,0 +1,2 @@
+/u/AluminumMaiden on Backup failed for Server? Can't seem to schedule the SQL backups when permissions are correct.
+Is the destination folder a mount point? I've had this issue when it is. I needed to add a drive letter to the mount point, set permissions on the drive, then remove the drive letter to get past it.   

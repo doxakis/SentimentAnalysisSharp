@@ -1,0 +1,2 @@
+/u/gorbach0n on [D] Train a generator to generate a known distribution
+You use a uniform random source between 0 and 1, then apply the inverse cumulative density function (inverse cdf) If you have some samples, you can sort them, assign them values between 0 and 1 corresponding to their position in the list, and fit the 0-1 values to the curve of sorted sample values.   

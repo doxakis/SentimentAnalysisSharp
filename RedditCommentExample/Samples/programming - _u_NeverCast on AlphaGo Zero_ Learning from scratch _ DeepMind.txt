@@ -1,0 +1,2 @@
+/u/NeverCast on AlphaGo Zero: Learning from scratch | DeepMind
+Well the first implementation of AlphaGo had people, and the second one did away with them, and AlphaGo Zero is better.. so maybe there is some truth in that.   

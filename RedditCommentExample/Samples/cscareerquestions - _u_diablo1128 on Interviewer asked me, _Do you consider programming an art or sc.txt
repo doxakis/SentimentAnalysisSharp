@@ -1,0 +1,2 @@
+/u/diablo1128 on Interviewer asked me, "Do you consider programming an art or science". I answered craft. What is this question supposed to demonstrate?
+I see this as a cultural fit type of questions. Working with people who philosophical sees being a SWE the same way is probably beneficial for them. When everybody sees it as art and you come in and just cram in changes any which way to churn out code you probably won't fit in well. You may even get annoyed because they are making you change your "working code" for things you don't see as important.   

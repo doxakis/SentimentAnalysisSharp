@@ -1,0 +1,2 @@
+/u/imdrunkwhyustillugly on Write Node.js apps in C# using Bridge.NET and Retyped
+Just out of curiosity, did you discuss wether to call it a compiler or a transpiler?   

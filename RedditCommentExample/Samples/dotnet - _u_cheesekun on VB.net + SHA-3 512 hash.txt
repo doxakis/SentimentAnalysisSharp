@@ -1,0 +1,2 @@
+/u/cheesekun on VB.net + SHA-3 512 hash
+Why SHA3 is the correct question   

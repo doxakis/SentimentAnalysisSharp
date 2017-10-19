@@ -1,0 +1,2 @@
+/u/akron_ohio_guy on Best python wrapper for Stanford's CoreNLP?
+No. You start a server running a java model and then, separately, use python to hit that server with a request.   

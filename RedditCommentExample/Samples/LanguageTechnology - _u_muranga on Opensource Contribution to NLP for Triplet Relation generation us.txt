@@ -1,0 +1,2 @@
+/u/muranga on Opensource Contribution to NLP for Triplet Relation generation using Syntaxnet
+By "benchmark" they mean that you should make quantitative statements about the quality of your system, as compared to the others, based on standard datasets (or at least create and share your own). For example: we get 85% accuracy on dataset XYZ while Stanford's OpenIE gets 63%.   

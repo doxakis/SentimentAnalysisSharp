@@ -1,0 +1,2 @@
+/u/Gauss-Legendre on What mathematics resources would you recommend to a complete ML Noob
+When your research is about utilizing the tool to provide a solution to another problem, no.  You're unlikely to be able to do this if you don't fully understand the theory behind the tools you are using.   

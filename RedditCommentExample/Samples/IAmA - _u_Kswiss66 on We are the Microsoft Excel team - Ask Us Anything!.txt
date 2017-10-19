@@ -1,0 +1,2 @@
+/u/Kswiss66 on We are the Microsoft Excel team - Ask Us Anything!
+Adding an apostrophe before a set of numbers converts it to text based. The apostrophe isn't visible.   

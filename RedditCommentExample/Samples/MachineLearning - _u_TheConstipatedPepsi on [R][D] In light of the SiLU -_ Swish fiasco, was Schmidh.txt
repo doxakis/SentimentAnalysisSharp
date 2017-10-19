@@ -1,0 +1,2 @@
+/u/TheConstipatedPepsi on [R][D] In light of the SiLU -> Swish fiasco, was Schmidhuber right?
+If we're seeking a replacement for ReLU, we want something that could be expected to work well on new tasks, constraining the activation function to be the same for all tasks allows us to just use the final learned function on new tasks, the network in network approach is expanding the model capacity and needs to be retrained for every new task. The learned activation function approach could be seen as transfer learning between tasks.   

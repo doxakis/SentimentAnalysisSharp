@@ -1,0 +1,2 @@
+/u/higherlogic on Responsive Email Templates Framework: Foundation for Emails 2
+Used it a month ago because the previous “developer” used Bootstrap for emails and didn’t understand you can’t link to a stylesheet for emails. Had to convert everything over and use Gulp to properly build the emails. Definitely recommend especially if you’re a Litmus subscriber.   

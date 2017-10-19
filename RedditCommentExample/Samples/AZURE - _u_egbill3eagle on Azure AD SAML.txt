@@ -1,0 +1,2 @@
+/u/egbill3eagle on Azure AD SAML
+The topic you are looking for is configure AAD for Single sign on to applications not in the gallery. This requires Azure AD P1 licensing for your users. You will not need to edit the manifest for this to work. This is an outdated documentation link covering how to do this in the old AAD portal. The process is almost identical in the new portal however I was not able to find the link quickly while on mobile. https://docs.microsoft.com/en-us/azure/active-directory/active-directory-saas-custom-apps   

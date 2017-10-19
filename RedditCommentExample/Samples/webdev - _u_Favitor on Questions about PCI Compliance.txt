@@ -1,0 +1,2 @@
+/u/Favitor on Questions about PCI Compliance
+Stripe, Paypal etc does token billing. That may suit.   

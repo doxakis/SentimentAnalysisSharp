@@ -1,0 +1,2 @@
+/u/infernol on Weirdness with column-count and the responsive iframe hack in Google Chrome.
+You just need to tell Chrome that it shouldn't split the iframe into two separate columns.  .two-column .iframe-container { page-break-inside: avoid; }    

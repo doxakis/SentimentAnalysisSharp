@@ -1,0 +1,2 @@
+/u/jsamuel on Wanting to try out DigitalOcean and have a couple questions!
+Second, can I run multiple sites on a single droplet? I typically help set up clients on their own accounts  To run multiple sites belonging to different clients on the same droplet, with ServerPilot you can run each site under its own system user so that the sites are isolated from one another. Take a look here for more info on that: https://serverpilot.io/community/articles/getting-started-with-system-users.html   

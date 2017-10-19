@@ -1,0 +1,2 @@
+/u/amirouche on Why hasn't Meaning-Text Theory caught on? (x/post r/linguistics)
+It's not obvious how you would go to generate dictionaries using ML.   

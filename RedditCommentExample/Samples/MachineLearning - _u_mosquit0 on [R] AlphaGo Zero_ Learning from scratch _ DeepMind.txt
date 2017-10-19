@@ -1,0 +1,2 @@
+/u/mosquit0 on [R] AlphaGo Zero: Learning from scratch | DeepMind
+This version doesn't use MCTS EDIT sorry it does I misunderstood this part   

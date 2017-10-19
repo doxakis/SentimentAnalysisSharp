@@ -1,0 +1,2 @@
+/u/W-_-D on Can you really have a Azure Domain Controller and have local client connect to it
+If you’re planning on hooking into Azure AD then it may be worth looking into https://azure.microsoft.com/en-us/services/active-directory-ds/   

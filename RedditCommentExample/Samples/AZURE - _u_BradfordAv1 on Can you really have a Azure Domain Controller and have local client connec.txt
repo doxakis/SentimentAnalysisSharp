@@ -1,0 +1,2 @@
+/u/BradfordAv1 on Can you really have a Azure Domain Controller and have local client connect to it
+Yes I'm aware of all that I just wanted to know if your secondary DC in Azure acts like a secondary DC for your local devices. Do some of them connect to your Azure DC rather than your PDC in short. Do you notice any latency   

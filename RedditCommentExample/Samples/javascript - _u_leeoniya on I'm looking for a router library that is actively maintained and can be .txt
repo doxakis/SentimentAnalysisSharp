@@ -1,0 +1,2 @@
+/u/leeoniya on I'm looking for a router library that is actively maintained and can be used with web components
+Now I'm trying to ditch frameworks in favor of native web components.  Out of curiosity, what do web components give you that these frameworks do not? Web components still require javascript, and will require polyfills much heavier than any framework besides latest Chrome.   

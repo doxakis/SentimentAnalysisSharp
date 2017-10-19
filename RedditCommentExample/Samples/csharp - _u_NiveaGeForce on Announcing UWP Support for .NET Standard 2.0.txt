@@ -1,0 +1,2 @@
+/u/NiveaGeForce on Announcing UWP Support for .NET Standard 2.0
+It may have been a glitch, since mine is also still 10.   

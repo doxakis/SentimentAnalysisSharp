@@ -1,0 +1,2 @@
+/u/stronghup on Napa.js - multi-threaded JavaScript runtime built on V8 (from Microsoft)
+What does this give you over using fork in node?  I would assume that starting up a new thread takes less time and less memory than starting up a whole new process. My question at this point is, can these threads run on different/multiple cores?   

@@ -1,0 +1,2 @@
+/u/kjb9898 on Backup failed for Server? Can't seem to schedule the SQL backups when permissions are correct.
+Ok so I added "everyone" and the SQL dump works, thank you. But how do I find the SQL account on the machine? Is it in AD?   

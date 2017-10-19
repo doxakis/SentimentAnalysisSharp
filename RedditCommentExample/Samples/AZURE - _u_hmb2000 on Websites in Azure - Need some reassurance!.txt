@@ -1,0 +1,2 @@
+/u/hmb2000 on Websites in Azure - Need some reassurance!
+Funny you should ask — side note: we were about to pay a company $1000 a month to monitor, secure and scale our site. Needless to say, that would have been the BIGGEST waste of money ever and we pulled out. Azure scales and is very secure. Don’t was your money   

@@ -1,0 +1,2 @@
+/u/phil on Which cloud providers are more hobbyist-friendly?
+You can use many Google Cloud Platform services in our free tier: https://cloud.google.com/free/ Getting started is very easy. (Disclosure: works at Google)   

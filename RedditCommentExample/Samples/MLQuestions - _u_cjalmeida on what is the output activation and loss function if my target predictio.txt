@@ -1,0 +1,2 @@
+/u/cjalmeida on what is the output activation and loss function if my target prediction is an image ?
+To be fair, it is possible to apply CNN to time-series data - see recent WaveNet paper, applied to sound processing. But that's way advanced stuff and OP is really better served using an LSTM or GRU.   

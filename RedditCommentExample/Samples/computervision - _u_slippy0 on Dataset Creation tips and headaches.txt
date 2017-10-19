@@ -1,0 +1,2 @@
+/u/slippy0 on Dataset Creation tips and headaches
+As /u/parataxis_ says, scrapers are your friend. Chances are there's a site with the kind of data you want that someone's written a scraper for already. Just know that there's a good chance that some data will be mislabeled, depending on how organized the site is. For example, we used an Amazon scraper at one point, and found many items had clearly incorrect names or prices when compared to their images or descriptions. If there isn't an existing data source, then hire some undergrads :P   

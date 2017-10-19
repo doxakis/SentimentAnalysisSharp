@@ -1,0 +1,2 @@
+/u/Sealbhaigh on We are the Microsoft Excel team - Ask Us Anything!
+20 minutes of scrolling and no one asked how to open 2 separate reports without having to open 2 separate instances of excel? All I want is to have an instance open and double click the second report to open and NOT have it open in the first instance.   

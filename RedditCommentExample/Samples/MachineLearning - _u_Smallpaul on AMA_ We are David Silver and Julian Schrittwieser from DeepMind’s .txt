@@ -1,0 +1,2 @@
+/u/Smallpaul on AMA: We are David Silver and Julian Schrittwieser from DeepMind’s AlphaGo team. Ask us anything.
+Could the AlphaGo Zero program be taught to play Reversi or Connect Four just by changing the ruleset? Isn't this a more important milestone than Tabula Rasa mastering of a game that is already mastered? If you could apply the same engine to multiple games, the claim of generalizable technology would be indisputable.   

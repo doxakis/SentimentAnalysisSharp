@@ -1,0 +1,2 @@
+/u/trnka on What type of dataset am I looking for?
+I'd download google books ngrams - the ngrams are separated by year. Or if you have a small list of ones to try, just use the online viewer. I thought corpus of contemp. american english or corpus of historical american english had features to find this kind of thing but I didn't see an option for it.   

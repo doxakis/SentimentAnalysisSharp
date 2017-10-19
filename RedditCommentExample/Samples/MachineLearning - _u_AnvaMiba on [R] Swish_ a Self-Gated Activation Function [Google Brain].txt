@@ -1,0 +1,2 @@
+/u/AnvaMiba on [R] Swish: a Self-Gated Activation Function [Google Brain]
+It is indeed similar, but the GLU is more general since the sigmoid and linear part get different inputs.   

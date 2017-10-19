@@ -1,0 +1,2 @@
+/u/ffrog on Solution for Occlusion problem
+Could you not get multiple cameras and get multiple view points? If they are calibrated to each other then you could know where each object is and segment based on the mesh of multiple images.   

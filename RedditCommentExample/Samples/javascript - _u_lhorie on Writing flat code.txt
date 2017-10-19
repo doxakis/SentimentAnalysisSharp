@@ -1,0 +1,2 @@
+/u/lhorie on Writing flat code
+for loops do have better memory profile and performance, but your code becomes more readable/expressive/testable when using array methods (because you no longer have the counter increment logic mixed with your other logic). Generally speaking, you're not going to be doing computationally expensive things at 60fps in js, so the loss in perf is typically acceptable in light of the other benefits   

@@ -1,0 +1,2 @@
+/u/Shendare on An interesting piece of obfuscated code
+I was trying to figure out how that was supposed to become an operation that affects F. Didn't occur to me that old preprocessors might string them together like that, which is weird since you're taught to use parens in macros to prevent 'unintended' side effects like the one 'intended' here.   

@@ -1,0 +1,2 @@
+/u/ajamess on Azure AD SAML
+Hi! Adam from the Azure AD Apps team here! Here's some docs that will walk you through setting up a custom saml app: https://docs.microsoft.com/en-us/azure/active-directory/application-config-sso-how-to-configure-federated-sso-non-gallery#configuring-single-sign-on-to-non-gallery-applications Send me a note to asteen@microsoft.com if you need help!   

@@ -1,0 +1,2 @@
+/u/latestuser on I am working on an ASP MVC intranet app for my office. Any suggestions to improve development speed, especially for reports?
+I do not know how to use EF or LINQ for accessing data in SQL Server Report. Is there a way?   

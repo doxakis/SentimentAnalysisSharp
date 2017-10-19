@@ -1,0 +1,2 @@
+/u/matkoch87 on Build automation with C# and .NET Core
+So for Nuke I can tell you, that you won't end up learning both. It's actually the case that Nuke helps you working with MSBuild, for instance, there are arguments to enable code analysis and node reuse: msbuild.exe /maxCpuCount:10 /p:RunCodeAnalysis=true Note that one is passed as property. In Nuke you'll write MSBuild(s => .EnableNodeReuse() .EnableRunCodeAnalysis()); And sugar on top is that you'll see the same help text from the official website of MSBuild when hovering over the method invocations.   

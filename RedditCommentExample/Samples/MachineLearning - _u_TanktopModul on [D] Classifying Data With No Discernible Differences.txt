@@ -1,0 +1,2 @@
+/u/TanktopModul on [D] Classifying Data With No Discernible Differences
+It's entirely possible that your data does not contain the information necessary to tell your classes apart. Clustering is different from classification, so k-means clustering would not solve your classification problem.   

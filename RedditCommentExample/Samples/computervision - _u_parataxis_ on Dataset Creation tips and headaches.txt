@@ -1,0 +1,2 @@
+/u/parataxis_ on Dataset Creation tips and headaches
+Screen scraping is a great source of data. Often you can find sites where users upload the kind of data you want where they publish a sitemap.xml and you can just download everything What format it should be in depends on what framework you're using. eg: caffe wants you to put everything in an lmdb database   

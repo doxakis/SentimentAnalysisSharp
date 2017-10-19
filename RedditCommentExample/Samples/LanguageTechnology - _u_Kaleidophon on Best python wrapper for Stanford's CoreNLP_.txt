@@ -1,0 +1,2 @@
+/u/Kaleidophon on Best python wrapper for Stanford's CoreNLP?
+I actually only worked with the nltk wrapper and it worked alright? Doesn't really scale well though, had to use a wrapper for CoreNLP server after a while.   

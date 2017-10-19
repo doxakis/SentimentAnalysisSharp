@@ -1,0 +1,2 @@
+/u/BrBoomr on For a degree in computer science
+Look into the program that your college of choice has and see what's the predominant language for introduction courses is. Mine was C++. Set up the tools you need BEFORE going into class. Learn the language and try to challenge yourself by making small programs. By the time you can make a four function calculator, you should have covered some of the important fundamentals to be ahead of your class. Don't go in clueless, even if it is designed to teach those with no prior experience.   

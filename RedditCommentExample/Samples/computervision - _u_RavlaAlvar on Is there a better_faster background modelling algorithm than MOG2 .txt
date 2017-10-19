@@ -1,0 +1,2 @@
+/u/RavlaAlvar on Is there a better/faster background modelling algorithm than MOG2 that run in real-time/high speed
+Thanks, currently I have modelling my foreground object by a classifier. But the noise from compression artefact dramatically increase the number of blob to be classify.   

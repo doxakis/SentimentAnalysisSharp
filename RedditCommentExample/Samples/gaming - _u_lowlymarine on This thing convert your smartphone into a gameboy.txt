@@ -1,0 +1,2 @@
+/u/lowlymarine on This thing convert your smartphone into a gameboy
+There's no way Apple would grant MFi certification to that given what it would obviously be used for, and iOS doesn't allow generic BTHID controllers like Android does.   

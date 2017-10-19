@@ -1,0 +1,2 @@
+/u/daaqad on Would it be possible to apply t-SNE to my data?
+interesting, but I think TSNE requires you to have individuals (reddit users in your case) with equal dimensions (1 dimension being 1 subreddit if I have understood you correctly). So, I think your challenge will consist of going from 1000 posts for each users to N number of subreddits.   

@@ -1,0 +1,2 @@
+/u/J4mal on Writing flat code
+In the first piece of code (non flat), there is just one for loop. In the second, flat version, there are multiple loops. I would imagine this has drastic effects on performance; while probably minuscule on the level of an individual function, probably on the level of an entire app, no?   

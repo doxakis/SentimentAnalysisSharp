@@ -1,0 +1,2 @@
+/u/strange_fate on Questions about PCI Compliance
+Most businesses keep credit card numbers on file like hotels etc. This is how my clients normally do these payments but now that they are doing stuff online they want a way to get the numbers to the office. I'm telling them that they can't use the website to store the numbers so we are looking at options.   

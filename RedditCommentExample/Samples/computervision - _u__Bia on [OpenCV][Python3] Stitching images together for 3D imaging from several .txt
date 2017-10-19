@@ -1,0 +1,2 @@
+/u/_Bia on [OpenCV][Python3] Stitching images together for 3D imaging from several cameras. Please help.
+That looks pretty rigidly mounted, yes.   

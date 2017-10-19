@@ -1,0 +1,2 @@
+/u/supeazn on How to efficiently learn C#
+I'm using this WPF C# to learn. So far so good.   

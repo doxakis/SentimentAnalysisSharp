@@ -1,0 +1,2 @@
+/u/amirouche on Efficiently storing and accessing large amounts of text
+I use wiredtiger as a replacement for sqlite. I did no benchmark.   

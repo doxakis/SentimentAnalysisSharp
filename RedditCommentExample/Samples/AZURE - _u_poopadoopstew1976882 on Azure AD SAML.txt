@@ -1,0 +1,2 @@
+/u/poopadoopstew1976882 on Azure AD SAML
+It seems you don't get as much control over the claims as you get with AD FS. Is that true? Can I select a certain NameID format, for example?   
