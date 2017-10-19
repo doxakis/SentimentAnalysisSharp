@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAnalysis", "SentimentAnalysis\SentimentAnalysis.csproj", "{327577D0-D269-4C8F-88B8-76A115C6306A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentimentAnalysisSharp", "SentimentAnalysisSharp\SentimentAnalysisSharp.csproj", "{327577D0-D269-4C8F-88B8-76A115C6306A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditCommentExample", "RedditCommentExample\RedditCommentExample.csproj", "{65BA3C4E-755B-45E3-A03E-49E1CC8CFA9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{327577D0-D269-4C8F-88B8-76A115C6306A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{327577D0-D269-4C8F-88B8-76A115C6306A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{327577D0-D269-4C8F-88B8-76A115C6306A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65BA3C4E-755B-45E3-A03E-49E1CC8CFA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BA3C4E-755B-45E3-A03E-49E1CC8CFA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BA3C4E-755B-45E3-A03E-49E1CC8CFA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BA3C4E-755B-45E3-A03E-49E1CC8CFA9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
